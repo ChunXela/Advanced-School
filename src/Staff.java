@@ -1,5 +1,3 @@
-import java.lang.management.ThreadInfo;
-
 public class Staff extends Person{
     String school;
     double pay;
